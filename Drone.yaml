@@ -19,6 +19,6 @@ steps:
       from_secret: docker_username
     password:
       from_secret: docker_password
-    repo: rlachhman/myrepo
-    auto_tag: true
+    repo: spiyush12/appdevdemo
+    auto_tag: '1.0.10'
     auto_tag_suffix: drone-build
