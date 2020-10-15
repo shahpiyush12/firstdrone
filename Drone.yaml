@@ -20,5 +20,5 @@ steps:
     password:
       from_secret: docker_password
     repo: spiyush12/appdevdemo
-    auto_tag: '1.0.11'
+    auto_tag: '1.0.10'
     auto_tag_suffix: drone-build
